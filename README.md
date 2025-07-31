@@ -32,4 +32,5 @@ All analysis steps are captured on the Jupyter Notebook and can be adapted for g
 ⸻
 
 ## Contributors
-Moreau Q, Bellatif Z  
+Quentin Moreau
+Zayned Bellatif
