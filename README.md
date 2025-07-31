@@ -1,7 +1,6 @@
 # ERN Analysis Pipeline
 
-A reproducible MNE-Python pipeline for preprocessing EEG data and computing ERN components. Developed as part of the *Variability in the Analysis of an Event-Related Potential Dataset by Many Teams* study. Streamlines large-scale EEG analysis with automated quality-based subject inclusion/exclusion.
-
+A reproducible MNE-Python pipeline for preprocessing EEG data and computing ERN components. Developed as part of the *EEG Many Analysts* study https://www.coscience-personality.com/manyanalysts.
 ⸻
 
 ## Table of Contents
@@ -13,7 +12,7 @@ A reproducible MNE-Python pipeline for preprocessing EEG data and computing ERN 
 
 ## Study Context
 
-The pipeline was created for the *Variability in the Analysis of an Event-Related Potential Dataset by Many Teams* study. Its goals:
+The pipeline was created for the *EEG Many Analysts* study. Its goals:
 - Provide a full preprocessing and analysis routine for EEG data (on Flanker task)
 - Compute difference ERN (dERN) waveforms per condition  
 - Correlate dERN amplitude to anxiety measure
@@ -28,18 +27,10 @@ All analysis steps are captured on the Jupyter Notebook and can be adapted for g
 - **ERN Detection:** dERN computation across congruency conditions 
 - **Notebooks & Scripts:**  
   - Master Jupyter Notebook (`ern_pipeline.ipynb`)  
-  - `grand_average.py` — Compute grand-average ERN per condition  
-  - `corr_anxiety.py` — Correlate dERN amplitude with anxiety scores  
-- **Environment:** `mne_env.yml` for a ready-to-use conda environment  
-
-⸻
-
-## Installation
-
-**Requirements**
-- Python 3.8+  
-
+  - `grand_average.ipynb` — Compute grand-average ERN per condition  
+  - `corr_anxiety..ipynb` — Correlate dERN amplitude with anxiety scores  
 ⸻
 
 ## Contributors
-Moreau Q, Bellatif Z  
+Quentin Moreau
+Zayned Bellatif
