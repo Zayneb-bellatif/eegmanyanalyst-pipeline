@@ -33,4 +33,4 @@ All analysis steps are captured on the Jupyter Notebook and can be adapted for g
 
 ## Contributors
 Quentin Moreau
-Zayned Bellatif
+Zayneb Bellatif
