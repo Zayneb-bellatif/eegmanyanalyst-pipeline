@@ -28,9 +28,9 @@ All analysis steps are captured on the Jupyter Notebook and can be adapted for g
 - **Notebooks & Scripts:**  
   - Master Jupyter Notebook (`ern_pipeline.ipynb`)  
   - `grand_average.ipynb` — Compute grand-average ERN per condition  
-  - `corr_anxiety..ipynb` — Correlate dERN amplitude with anxiety scores  
+  - `corr_anxiety.ipynb` — Correlate dERN amplitude with anxiety scores  
 ⸻
 
 ## Contributors
-Quentin Moreau
+Quentin Moreau &
 Zayneb Bellatif
